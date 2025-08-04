@@ -1,4 +1,4 @@
-# CodeGuardian: Vulnerability Detection in Programming Languages
+# CodeGuardian: Detecting Vulnerabilities in Programming Languages
 
 CodeGuardian is a machine learning-based framework developed to detect and classify software vulnerabilities in source code written in **C**, **C++**, **Java**, **Python**, and **C#**. It supports severity classification and line-level localization, helping developers proactively identify and fix security issues early in the development lifecycle.
 
